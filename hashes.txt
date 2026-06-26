@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ton Amour Me Guide
+
+This log tracks the cryptographic history and versioning for the song **Ton Amour Me Guide** (ton-amour-me-guide).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T05:31:14.233561 | `v1` | `aad2d980501a574174c7115c04fc18c0f0188911a6a55ff2a4b982476aac6e27` | `027303332e1d1e6e7d2ea01208f1fc8ff03dea90110d214ad5dcf8af4f3299f0` | `2026-06-27_ton-amour-me-guide-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

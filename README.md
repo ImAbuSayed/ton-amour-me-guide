@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-amour-me-guide/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ton Amour Me Guide](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-amour-me-guide/) |
+| **Get License** | [Music Rights & Licensing for Ton Amour Me Guide](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-amour-me-guide/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aad2d980501a574174c7115c04fc18c0f0188911a6a55ff2a4b982476aac6e27` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
