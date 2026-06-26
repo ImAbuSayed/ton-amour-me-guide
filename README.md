@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-amour-me-guide/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ton Amour Me Guide](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-amour-me-guide/) |
+| **Get License** | [Obtain a Music License for Ton Amour Me Guide](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-amour-me-guide/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum sur ma peau, that's the only thing I need
+> Sous les néons de Paris, c'est ton amour qui me guide
+> On the rhythm of the night, je me perds dans tes yeux
+> Viens plus près de moi, on va enflammer les cieux
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
